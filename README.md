@@ -25,8 +25,6 @@ I enjoy solving business problems through data-driven decision-making and buildi
 
 ## 💻 Tech Stack  
 
-## 💻 Tech Stack  
-
 ### 🧠 Programming & Data Processing  
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
