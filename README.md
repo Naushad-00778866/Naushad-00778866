@@ -1,44 +1,84 @@
-💫 Hi 👋, I'm Naushad Alam
+# 💫 Hi 👋, I'm Naushad Alam  
 
-A Passionate Frontend Engineer || Data Analyst
+🎯 **Data Analyst | Business Analyst**  
+ 
+📧 naushadalam25678@gmail.com  
 
-🚀 I build interactive web interfaces and turn raw data into meaningful insights.
-
-📧 Email Me 👉 naushadalam25678@gmail.com
- for Collaboration, Projects, or Anything Tech 😊
-
-🚀 About Me
-
-🔭 Currently working on Frontend Web Apps & Data Dashboards
-
-🌱 Learning Advanced React, JavaScript (Advanced) & Data Structures and Algorithms (DSA) in Java
-
-👯 Looking to collaborate on Web Development & Data Analytics Projects
-
-💬 Ask me about Frontend, Data Analysis, Power BI, Excel, SQL
-
-⚡ Fun fact: I turn data into insights and designs into experiences 🚀
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naushad-alam-37b9a1290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naushadalam25678@gmail.com) 
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naushad-00778866&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Naushad-00778866&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naushad-00778866&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Naushad-00778866&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Naushad-00778866&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 I specialize in turning raw data into actionable insights using SQL, Python, Excel, and Power BI.  
+I enjoy solving business problems through data-driven decision-making and building interactive dashboards.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naushad-00778866&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+
+🔭 Currently working on **Data Analysis, KPI Dashboards & Business Insights**  
+
+🌱 Learning **Advanced SQL, Python, Forecasting & Business Analytics**  
+
+👯 Looking to collaborate on **Data Analytics & Business Intelligence Projects**  
+
+💬 Ask me about **SQL, Power BI, Excel, Python, Data Cleaning, Dashboarding**  
+
+⚡ Fun fact: I turn messy data into clear business insights 📊  
+
+---
+
+## 💻 Tech Stack  
+
+## 💻 Tech Stack  
+
+### 🧠 Programming & Data Processing  
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+
+### 📊 Data Visualization & BI  
+![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+![DAX](https://img.shields.io/badge/dax-%23000000.svg?style=for-the-badge&logo=powerbi&logoColor=white)  
+
+### 📈 Data Tools  
+![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/google%20sheets-%2334A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 💼 Experience  
+
+**📊 Data Analyst Intern – Unified Mentor** *(May 2025 – July 2025)*  
+
+- Cleaned and analyzed sales data using **Python & SQL** to improve data accuracy  
+- Built **Power BI dashboards** for 10+ products to track KPIs and performance  
+- Developed a **forecasting model** to identify demand trends and support planning  
+- Collaborated with team & guided interns in data cleaning and visualization  
+
+---
+
+## 📜 Certifications  
+
+✔ Data Analysis with Python – IBM  
+✔ SQL & Relational Databases – IBM  
+✔ Data Analytics – LinkedIn  
+✔ Power BI Dashboards – Skill Nation  
+✔ ChatGPT & AI Tools  
+
+🏆 **Best Internship Award 2025**  
+
+---
+
+## 📈 GitHub Stats  
+
+![Naushad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+
+---
+
+## 🤝 Connect with Me  
+
+📧 Email: naushadalam25678@gmail.com  
+💼 LinkedIn: (Add your link)  
+💻 GitHub: (Add your username)  
+
+---
